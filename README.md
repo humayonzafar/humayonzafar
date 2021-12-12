@@ -93,13 +93,13 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/humayonzafar/humayonzafar/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/humayonzafar/humayonzafar/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/humayon-zafar//" target="_blank">
+  <a href="https://www.linkedin.com/in/humayon-zafar/" target="_blank">
     <code><img height="60" width="60" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/></code>
   </a>
   <a href="https://www.instagram.com/humayon.zafar/" target="_blank">
