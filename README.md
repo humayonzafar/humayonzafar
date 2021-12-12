@@ -86,10 +86,35 @@
 <br/>
   
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/humayonzafar/humayonzafar/blob/main/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/humayonzafar/humayonzafar/blob/output/github-contribution-grid-snake.gif)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
+<h1>
+  Connect With Me
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/humayonzafar/humayonzafar/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  </a>
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/humayon-zafar//" target="_blank">
+    <code><img height="60" width="60" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/></code>
+  </a>
+  <a href="https://www.instagram.com/humayon.zafar/" target="_blank">
+    <code><img height="60" width="60" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"/></code>
+  </a>
+</p>
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
 
 ------
 Credits: [humayonzafar](https://github.com/humayonzafar)
