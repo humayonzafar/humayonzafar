@@ -1,23 +1,23 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/humayonzafar/humayonzafar/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/humayonzafar/humayonzafar/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/humayonzafar/humayonzafar/GIF/code.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Full Stack Developer**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **React 𝚊𝚗𝚍 Nextjs**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Web Development**
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 finding a **Remote Job**
+- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑  **Remote Job**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/humayonzafar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
@@ -35,7 +35,7 @@
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/humayonzafar/humayonzafar/GIF/github.gif"></a>
 <br/>
 
 
