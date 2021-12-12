@@ -1,17 +1,17 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/humayonzafar/humayonzafar/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/humayonzafar/humayonzafar/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/humayonzafar/humayonzafar/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/humayonzafar/humayonzafar/blob/main/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/humayonzafar/humayonzafar/GIF/code.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/humayonzafar/humayonzafar/blob/main/GIF/code.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Full Stack Developer**
@@ -35,7 +35,7 @@
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/humayonzafar/humayonzafar/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/humayonzafar/humayonzafar/blob/main/GIF/github.gif"></a>
 <br/>
 
 
