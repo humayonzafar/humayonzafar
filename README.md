@@ -63,7 +63,7 @@
 
 <br/>
 
-<h3 align="center"> See my repos <a href="https://github.com/humayonzafar?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center"> See my <a href="https://github.com/humayonzafar?tab=repositories">repos</a>! ⭐ Stars are appreciated!</h3>
 
 
 
