@@ -72,13 +72,14 @@
 
 ------
 <div align="center">
-<p>  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/humayonzafar?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/humayonzafar?label=Stars" alt="Total Stars">
-</p>
+  <p>  
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/humayonzafar?label=Followers&style=social"> •   
+   <img src="https://img.shields.io/github/stars/humayonzafar?label=Stars" alt="Total Stars"> •
+   <img src="https://komarev.com/ghpvc/?username=humayonzafar&color=dc143c" alt="Profile Views"> 
+  </p>
 
-<p> Credits: <a href="https://www.humayonzafar.com/">humayonzafar</a> </p>
-<p>Last edited on: 24/01/2021</p>
+  <p> Credits: <a href="https://www.humayonzafar.com/">humayonzafar</a> </p>
+  <p>Last edited on: 24/01/2021</p>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=90421520)
